@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<watchfaceinfo>
+	<version>1.0</version>
+	<author>Gildo Crippa</author>
+	<designer>Gildo Crippa</designer>
+	<title>TagHeuer9GC_edited</title>
+	<basedOn></basedOn>
+	<preview>sample-face.png</preview>
+	<settings>false</settings>
+	<description>TagHeuer9GC (auto-generated with SAWFB (Simple Amazfit WatchFace Builder), https://sawfb.fabiobarbon.click/)
+    [font:font.ttf, size:88, color:#00ffff, xoffset:0, yoffset:0, bg:/var/lib/php5/sessions/akf033ck3ouibspoq6jrqft1h7/blob]
+    [cmdline: " -n 'TagHeuer9GC' -f 'font.ttf' -s '88' -c '#00ffff' -b '#000000' -a 'Gildo Crippa' -x '0' -g '296' -y '0' -t '10:10' -0 '+198+150' -1 '+22+150' -2 'false' -3 'false' -4 'false' -5 'false' -6 'false' -7 'false' -8 '+118+54' -9 '+118+182' -A 'false' -B 'false' -C 'false' -D 'false' -q '1' -u '/var/lib/php5/sessions/akf033ck3ouibspoq6jrqft1h7/blob' -d --hour_image '/var/lib/php5/sessions/akf033ck3ouibspoq6jrqft1h7/hours.png' --minute_image '/var/lib/php5/sessions/akf033ck3ouibspoq6jrqft1h7/minutes.png' --second_image '/var/lib/php5/sessions/akf033ck3ouibspoq6jrqft1h7/seconds.png' --" ]
+  </description>
+</watchfaceinfo>
